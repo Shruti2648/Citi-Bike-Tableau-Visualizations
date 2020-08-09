@@ -1,1 +1,25 @@
 # Tableau-Challenge
+
+## [Link to my Tableau workbook](https://public.tableau.com/profile/shruti.jadhav#!/vizhome/CitiBikeAnalysis_15969589849870/RiderAnalysis)
+
+### Introduction
+
+Citi Bike is a bicycle sharing system owned by Lyft that operates within New York and Jersey City. The program currently operates 14,500 bikes and 950 bike stations. Users can rent bicycles by purchasing day passes or monthly or annual memberships. Users use the Citi Bike app to locate a station, unlock a bike, and return the bike to a station after use. The program has grown significantly since its opening in 2013. It is praised by city residents and officials for making bicycle use, and the health and environmental benefits that it entails, more accessible to the average person. This analysis consists of an exploration of Citi Bike rider and station data from January 2018 to December 2019.
+
+### Rider Analysis
+
+The purpose of the rider analysis was to analyze several important variables that affect ridership: gender, user type, and age. The monthly trips by gender visualization reveals that men comprise over two-thirds of riders, while women comprise less than one-third. This finding has been acknowledged by Citi Bike for several years. The company has released ad campaigns featuring women in an effort to encourage women to participate more. Our visualization also revealed that Both genders are likelier to ride during the summer months, but the gender disparity is more prevalent during the winter months. This could be attributed to the fact that women tend to cite safety concerns as a reason for not riding bicycles more often. Female riders who are concerned about their safety are probably less likely to ride during winter, when there are fewer daylight hours and poorer weather conditions.
+
+The monthly trips by user type visualization showed that the vast majority of users, approximately 80%, are subscribers who have purchased a monthly or annual subscription. Users who are not subscribers ride by purchasing day passes. Non-subscribers are much likelier to ride during summer months than winter months. A cursory internet search reveals that non-subscribers tend to ride for leisure rather than for commuting. It thus makes sense that they would choose to ride during summer months with warmer weather, as opposed to winter months with poor weather.
+
+The rider age visualizations both show that the majority of riders are between the ages of 20 and 50. This finding is consistent among male and female riders. Rider age is slightly more varied among subscribers than non-subscribers. The majority of non-subscribers are between the ages of 20 and 40. There are also some very noticeable outliers in the rider age variable, such as ages above 100. This could indicate that some users have entered false ages when registering for the service.
+
+### Station Analysis
+
+The purpose of the station analysis was to analyze usage of the bike stations where users pick up and return bikes. The start station popularity visualization shows that the most popular stations for bike pick-up are Grove St PATH, Hamilton Park, Sip Ave, Newport PATH, and Harborside. Similarly, the most popular stations for bike return are Grove St PATH, Hamilton Park, Sip Ave, Newport Path, and Exchange Place. All of these locations are popular and convenient hubs for commuters, which explains this trend. Some commuters use bike transport as a "second commute" - for example, by taking a train first and then using a bicycle for the second leg of the commute. This could explain why the Grove St Path station is especially significantly popular compared to the other stations. 
+
+It initially seems surprising that the most popular stations are in Jersey City, because Citi Bike seems to have a stronger cultural presence in New York. However, New York contains more stations overall than Jersey City, so the few Jersey City stations are more frequently used than the many stations in New York. The last two visualizations in this analysis consist of maps that display the bike stations with a color gradient to indicate popularity. They complement the findings in the last several visualizations: the most popular stations are located in Jersey City and near transportation hubs.
+
+### Conclusion
+
+The Citi Bike program is an excellent way to help New York and Jersey City residents get around by bicycle. Ridership varies significantly during winter and summer months, and also varies greatly by gender and user type. The most popular stations are located in areas that serve many commuters. Since the data for this analysis only spans two years, more data should be used to analyze how the program has changed over time. Additionally, the COVID-19 pandemic has had a significant impact on Citi Bike and ridership has decreased significantly. Citi Bike has implemented additional safety precautions at its stations and has offered discounted memberships for healthcare and transit workers. A study on Citi Bike's response to the pandemic is an excellent topic for future research.
